@@ -1,0 +1,73 @@
+
+.container-fluid{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar{
+    border-radius: 2px ;
+    background-color: darkred;
+}
+
+
+.nav-link{
+    background-color: gray;
+
+
+}
+
+.nav{
+    margin: 0;
+    padding: 0;
+
+}
+
+.navbar-nav{
+  font-size: 25px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+
+}
+
+
+
+
+
+.title{
+  margin-bottom: 15px;
+  text-align: center;
+  color: #000;
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+}
+
+
+
+
+
+
+
+.row{
+    margin: 20px;
+}
+
+.content-box{
+    margin: 20px;
+    color: black;
+    background-color: rgba(150,150,150,5);
+    font-family: serif;
+    padding: 15px;
+}
+
+.Chicken , .Sushi ,.Beef{
+    text-align: center;
+    font-size: 20px;
+    font-weight: bold;
+    background-color: white;
+}
+
+#top{
+
+}
